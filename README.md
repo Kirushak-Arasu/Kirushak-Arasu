@@ -8,9 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kirushak&label=Profile%20views&color=0e75b6&style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/krishak_arasu?logo=twitter&style=social)](https://twitter.com/krishak_arasu)
-
 </div>
 
 ---
@@ -18,21 +15,15 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name       : Kirushak K.T
-location   : India 🇮🇳
-university : SRM KTR University
-degree     : B.Tech CSE (AI/ML)
-email      : kirushakkarasu2004@gmail.com
-interests  : [Frontend Dev, AI/ML, Writing, Open Source]
-currently  : "Building cool stuff and learning every day 🚀"
+Name       : Kirushak K.T
+Location   : India 🇮🇳
+University : SRM KTR University
+Degree     : B.Tech CSE (AI/ML)
+Email      : kirushakkarasu2004@gmail.com
+Interests  : [Frontend Dev, AI/ML, Writing, Open Source]
+Currently  : "Building cool stuff and learning every day 🚀"
+Fun fact: I debug with `print()` and I'm proud of it 😄
 ```
-
-- 🌱 Studying **B.Tech CSE (AI/ML)** at SRM KTR University
-- 📝 Writing tech articles on [Medium](https://medium.com/@kirushakkarasu2004)
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1jz-tc8sejlkxsv9MDGufdxctIjNqUFNu/view?usp=sharing)
-- 📫 Reach me at **kirushakkarasu2004@gmail.com**
-- ⚡ Fun fact: I debug with `print()` and I'm proud of it 😄
-
 ---
 
 ## 🌐 Connect with Me
