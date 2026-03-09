@@ -64,16 +64,7 @@ Fun fact   : I debug with `print()` and I'm proud of it 😄
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kirushak&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="kirushak stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushak&theme=tokyonight&hide_border=true&layout=compact" alt="top langs" width="36%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirushak&theme=tokyonight&hide_border=true" alt="streak" width="55%"/>
-
-</div>
+<br>
 
 <div align="center">
   <i>⭐ Star some repos if you find them helpful!</i>
