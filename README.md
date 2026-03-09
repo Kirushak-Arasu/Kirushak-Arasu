@@ -15,11 +15,11 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-Name       : Kirushak K.T
-Location   : India 🇮🇳
+Name       : Kirushak Arasu
+Location   : India
 University : SRM KTR University
 Degree     : B.Tech CSE (AI/ML)
-Email      : kirushakkarasu2004@gmail.com
+Email      : kirushak.arasu@gmail.com
 Interests  : Full-Stack Dev, AI/ML, Data Science, Music, Chess
 Currently  : Building cool stuff and learning every day
 Fun fact   : I debug with `print()` and I'm proud of it 😄
