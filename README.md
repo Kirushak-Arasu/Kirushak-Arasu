@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm Kirushak! 👋
+## Hi there, I'm Kirushak! 👋
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full--Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;B.Tech+CSE+%40+SRM+KTR+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
