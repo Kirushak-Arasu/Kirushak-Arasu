@@ -22,7 +22,7 @@ Degree     : B.Tech CSE (AI/ML)
 Email      : kirushakkarasu2004@gmail.com
 Interests  : Full-Stack Dev, AI/ML, Data Science, Music, Chess
 Currently  : Building cool stuff and learning every day
-Fun fact: I debug with `print()` and I'm proud of it 😄
+Fun fact   : I debug with `print()` and I'm proud of it 😄
 ```
 ---
 
@@ -74,16 +74,6 @@ Fun fact: I debug with `print()` and I'm proud of it 😄
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirushak&theme=tokyonight&hide_border=true" alt="streak" width="55%"/>
 
 </div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirushak&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="trophies"/>
-</div>
-
----
 
 <div align="center">
   <i>⭐ Star some repos if you find them helpful!</i>
