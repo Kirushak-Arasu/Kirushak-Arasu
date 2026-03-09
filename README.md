@@ -32,8 +32,8 @@ Fun fact   : I debug with `print()` and I'm proud of it 😄
 
 <a href="https://linkedin.com/in/kirushak-kt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/kirushak_kt" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://kaggle.com/kirushakkarasukt" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://www.leetcode.com/kirushakkarasu_kt" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://www.kaggle.com/kirushakarasu" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Kirushak-Arasu/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
 
 ---
