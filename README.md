@@ -1,6 +1,8 @@
 <div align="center">
 # Hi there, I'm Kirushak! 👋
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full--Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;B.Tech+CSE+%40+SRM+KTR+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUST7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaauohrI8PIo7CX57s699656XyhOc-1P2tlBrQVMkqp8N0iScJPaFo/coding-freak.gif" width="480" alt="coding gif"/>
 <br/>
 </div>
