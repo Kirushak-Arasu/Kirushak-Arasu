@@ -20,8 +20,8 @@ Location   : India 🇮🇳
 University : SRM KTR University
 Degree     : B.Tech CSE (AI/ML)
 Email      : kirushakkarasu2004@gmail.com
-Interests  : [Frontend Dev, AI/ML, Writing, Open Source]
-Currently  : "Building cool stuff and learning every day 🚀"
+Interests  : Full-Stack Dev, AI/ML, Data Science, Music, Chess
+Currently  : Building cool stuff and learning every day
 Fun fact: I debug with `print()` and I'm proud of it 😄
 ```
 ---
